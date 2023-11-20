@@ -26,4 +26,4 @@
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🤝 **¡Conéctate conmigo!**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/) 🐝
