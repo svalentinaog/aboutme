@@ -22,4 +22,3 @@
 
 🤝 **¡Conéctate conmigo!**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/)
-- 📧 [svalentinaog10@gmail.com](mailto:svalentinaog10@gmail.com)
