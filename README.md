@@ -1,8 +1,8 @@
 # Sobre mí
 
-¡Hola! Soy Valentina Ortiz, desarrolladora FullStack con formación sólida y experiencia práctica. Mi enfoque innovador se refleja en proyectos funcionales y atractivos. Domino tecnologías clave como HTML, CSS, JavaScript, React (front-end) y Node.js, Express (back-end). Busco contribuir a proyectos desafiantes para seguir creciendo profesionalmente, manteniéndome actualizada con las últimas tendencias y tecnologías para ofrecer soluciones modernas y eficientes.
+¡Hola! Soy Valentina Ortiz, desarrolladora FullStack con formación sólida y experiencia práctica. Mi enfoque innovador se refleja en proyectos funcionales y atractivos. Domino tecnologías clave como JavaScript, SCSS, React (front-end) y Node.js, Express (back-end). Busco contribuir a proyectos desafiantes para seguir creciendo profesionalmente, manteniéndome actualizada con las últimas tendencias y tecnologías para ofrecer soluciones modernas y eficientes.
 
-## Tecnologías y Herramientas
+## Tecnologías y herramientas que uso
 
 ### Front-end
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
