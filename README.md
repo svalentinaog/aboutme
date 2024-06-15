@@ -1,6 +1,6 @@
 # Sobre mí
 
-🪼¡Hola! Soy Valentina Ortiz, desarrolladora Full Stack con una sólida formación y experiencia práctica. Mi enfoque innovador se refleja en proyectos funcionales y atractivos. Domino tecnologías clave como JavaScript, CSS, React (front-end) y Node.js, Express (back-end). Busco contribuir a proyectos desafiantes para seguir creciendo profesionalmente, manteniéndome actualizada con las últimas tendencias y tecnologías para ofrecer soluciones modernas y eficientes.
+¡Hola! Soy Valentina Ortiz, desarrolladora Full Stack con una sólida formación y experiencia práctica. Mi enfoque innovador se refleja en proyectos funcionales y atractivos. Domino tecnologías clave como JavaScript, CSS, React (front-end) y Node.js, Express (back-end). Busco contribuir a proyectos desafiantes para seguir creciendo profesionalmente, manteniéndome actualizada con las últimas tendencias y tecnologías para ofrecer soluciones modernas y eficientes.
 
 ## Tecnologías y herramientas que uso
 
@@ -25,5 +25,5 @@
 ### Base de Datos
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🤝 **¡Conéctate conmigo!**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/) 🐝
+**¡Conéctate conmigo!**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/) 
