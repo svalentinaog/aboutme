@@ -54,4 +54,4 @@ Estilos: SASS, - [!CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-b
 - ![Edición fotográfica: Adobe Photoshop]
 
 **¡Conéctate conmigo!**
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/) 
