@@ -8,7 +8,7 @@ Soy desarrolladora Full Stack con experiencia en tecnologías open source como R
 - ![Bibliotecas y frameworks: Angular, React, Next.js]
 - ![Manejo de estado: Redux, Redux Toolkit]
 - ![Lenguajes: JavaScript, TypeScript]
-Estilos: ![SASS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white), - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Estilos: ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white), ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Frameworks de estilos: Bootstrap, Tailwind CSS, Material UI]
 - ![Empaquetadores (Build tool): Vite.js]
 
