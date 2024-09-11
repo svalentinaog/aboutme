@@ -1,6 +1,6 @@
 # Sobre mí
 
-¡Hola! Soy Valentina Ortiz, desarrolladora Full Stack con una sólida formación y experiencia práctica. Mi enfoque innovador se refleja en proyectos funcionales y atractivos. Domino tecnologías clave como JavaScript, CSS, React (front-end) y Node.js, Express (back-end). Busco contribuir a proyectos desafiantes para seguir creciendo profesionalmente, manteniéndome actualizada con las últimas tendencias y tecnologías para ofrecer soluciones modernas y eficientes.
+Soy desarrolladora Full Stack con experiencia en tecnologías open source como React, Angular, Node.js y Express.js. En cada proyecto, priorizo la producción de código limpio y mantenible, asegurando una buena experiencia al usuario. Actualmente, formo parte del equipo de Sian Exus, una plataforma en la nube que ofrece herramientas para administrar negocios, facturación electrónica y más. Como Desarrolladora Front-end en Sian Exus, creo soluciones escalables y de alta calidad utilizando Angular como biblioteca principal, garantizando que cumplan con los estándares de usabilidad y buen diseño. Siempre estoy abierta a aprender nuevas tecnologías y metodologías, y recientemente he desarrollado un interés en React Native y Vue.js.
 
 ## Tecnologías y herramientas que uso
 
