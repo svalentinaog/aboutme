@@ -26,32 +26,32 @@ Soy desarrolladora Full Stack con experiencia en tecnologías open source como R
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Front-end
-- [!Bibliotecas y frameworks: Angular, React, Next.js]
-- [!Manejo de estado: Redux, Redux Toolkit]
-- [!Lenguajes: JavaScript, TypeScript]
+- ![Bibliotecas y frameworks: Angular, React, Next.js]
+- ![Manejo de estado: Redux, Redux Toolkit]
+- ![Lenguajes: JavaScript, TypeScript]
 Estilos: SASS, - [!CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- [!Frameworks de estilos: Bootstrap, Tailwind CSS, Material UI]
-- [!Empaquetadores (Build tool): Vite.js]
+- ![Frameworks de estilos: Bootstrap, Tailwind CSS, Material UI]
+- ![Empaquetadores (Build tool): Vite.js]
 
 ### Back-end
-- [!Tecnologías: Node.js, Express.js]
-- [!Lenguajes: JavaScript, TypeScript]
-- [!ORM (Object-relational mapping): Sequelize]
+- ![Tecnologías: Node.js, Express.js]
+- ![Lenguajes: JavaScript, TypeScript]
+- ![ORM (Object-relational mapping): Sequelize]
 
 ### Bases de datos
-- [!Relacionales: PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- [!Lenguaje de consulta: SQL]
+- ![Relacionales: PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Lenguaje de consulta: SQL]
 
 ### Metodologías y herramientas
-- [!Metodologías ágiles: Scrum]
-- [!Control de versiones: Git, GitHub, GitLab]
-- [!Testing y documentación de APIs: Postman]
-- [!CMS (Content Management System): WordPress]
+- ![Metodologías ágiles: Scrum]
+- ![Control de versiones: Git, GitHub, GitLab]
+- ![Testing y documentación de APIs: Postman]
+- ![CMS (Content Management System): WordPress]
 
 ### Diseño Multimedia
-- [!Herramientas de prototipado: Figma]
-- [!Ilustración vectorizada: Adobe Illustrator]
-- [!Edición fotográfica: Adobe Photoshop]
+- ![Herramientas de prototipado: Figma]
+- ![Ilustración vectorizada: Adobe Illustrator]
+- ![Edición fotográfica: Adobe Photoshop]
 
 **¡Conéctate conmigo!**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/) 
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Ortiz-blue)](https://www.linkedin.com/in/svalentinaog/) 
