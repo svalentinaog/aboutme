@@ -1,6 +1,6 @@
 # Sobre mí
 
-Soy **Desarrolladora Full Stack** con especialización en **Front-end**, desarrollando aplicaciones web interactivas y responsivas, utilizando tecnologías **open source** como **React, Next.js y Angular**, y **Node.js, Express y Sequelize** en el **Back-end**, e integración de bases de datos **PostgreSQL** para aplicaciones robustas y de alto rendimiento. También tengo experiencia en diseño multimedia, utilizando herramientas como **Figma, Adobe Illustrator y Photoshop**.
+Soy **Desarrolladora Full Stack** con especialización en **Front-end**, desarrollando aplicaciones web interactivas y responsivas, utilizando tecnologías **open source** como **React, Next.js y Angular**, **Node.js, Express y Sequelize** en el **Back-end**, e integración de bases de datos **PostgreSQL** para aplicaciones robustas y de alto rendimiento. También tengo experiencia en diseño multimedia, utilizando herramientas como **Figma, Adobe Illustrator y Photoshop**.
 
 ## Tecnologías, metodologías y herramientas
 
